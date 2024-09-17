@@ -58,12 +58,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Marck-Aguiar/Marck-Aguiar/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">The feeling of seeing this profile somehow fills you with determination ❤️</p>
 
 ###
