@@ -1,4 +1,4 @@
-<h2 align="left">Howdy! 🌟 I'm Mark Aguiar, a programming student from Brazil, with the mission of turning ideas and dreams into something! 🚀🌍</h2>
+<h2 align="left">Howdy! 🌟 I'm Marck Aguiar, a programming student from Brazil, with the mission of turning ideas and dreams into something! 🚀🌍</h2>
 
 ###
 
